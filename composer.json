@@ -1,16 +1,14 @@
 {
-    "name": "mrdigital/pdftk",
-    "authors": [
-        {
-            "name": "mrdigitalau",
-            "email": "sean@mrdigital.com.au"
-        }
-    ],
-    "autoload" : {
+    "name": "osborcon/pdftk",
+    "authors": [{
+        "name": "Conner Osborn",
+        "email": "osborcon@iastate.edu"
+    }],
+    "autoload": {
 
-        "psr-4" : {
+        "psr-4": {
 
-                "Classes\\":"./classes"
+            "Classes\\": "./classes"
 
         }
     },

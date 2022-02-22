@@ -13,7 +13,7 @@ use Classes\GeneratePDF;
 
 $data = [
 
-      'name_field' => $_POST['fname'] .' ' . $_POST['lname'],
+      'name_field' => $_POST['fname'],
       'email_field' => $_POST['email'],
       'phone_field' => $_POST['phone'],
       'enquiry_field' => $_POST['enquiry']
